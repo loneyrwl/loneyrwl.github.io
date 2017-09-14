@@ -4,8 +4,8 @@
 # ---------------------------------------------------------------
 
 # Site
-title: Keep on
-subtitle:
+title: loney's blog
+subtitle: 探索、记录、分享、生活
 description:
 author: loney
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
@@ -86,7 +86,7 @@ keywords: "Jekyll, NexT"
 rss:
 
 # Specify the date when the site was setup
-#since: 2015
+since: 2017
 
 # icon between year and author @Footer
 authoricon: heart
